@@ -54,7 +54,7 @@ Databel, a telecom company, faces high customer churn, which affects its revenue
 ### 4. **Target At-Risk Regions with Personalized Campaigns**
    - The churn rate varies significantly by state, with some regions experiencing higher churn.
    - **Recommendation**: Launch targeted retention campaigns in high-churn regions, offering special discounts or regional promotions to customers in those areas.
-   - 
+     
 ### 5. **Offer Custom Data Plans**
    -The dashboard shows a correlation between data consumption and churn, with those using between 5–10 GB having higher churn.
    - **Recommendation**: Provide more flexible or customized data plans that cater to medium users. 
