@@ -31,11 +31,36 @@ Databel, a telecom company, faces high customer churn, which affects its revenue
    - A donut chart showing the distribution of churn causes, such as competitor offers and product dissatisfaction.
 
 ## Insights
-- **Contract Type**: Customers on month-to-month contracts have the highest churn rate, suggesting that long-term contracts may reduce churn.
-- **Churn by Age**: Customers who are 70 or over on average show a much higher churn rate compared customers under 70.
-- **Churn Reasons**: The most common reason for churn is competitors offering better deals and products.
-- **Geographic Distribution**: California had the highest churn rate of any state by far at 63.24%!
-- **Data Plan and Grouped Consumption**: Among customers who used under 5 GB of data, the churn rate of those who have an unlimited data plan was 34.71%, whereas those without an unlimited plan were much lower at 12.31%. In contrast, customers who used more than 5 GB, regardless of whether they had an unlimited plan or not, averaged higher than the total average churn rate.
+- 1. **Contract Type**: Customers on month-to-month contracts have the highest churn rate, suggesting that long-term contracts may reduce churn.
+- 2. **Churn by Age**: Customers who are 70 or over on average show a much higher churn rate compared customers under 70.
+- 3. **Churn Reasons**: The most common reason for churn is competitors offering better deals and products.
+- 4. **Geographic Distribution**: California had the highest churn rate of any state by far at 63.24%!
+- 5. **Data Plan and Grouped Consumption**: Among customers who used under 5 GB of data, the churn rate of those who have an unlimited data plan was 34.71%, whereas those without an unlimited plan were much lower at 12.31%. In contrast, customers who used more than 5 GB, regardless of whether they had an unlimited plan or not, averaged higher than the total average churn rate.
+
+
+## Recommendations
+### 1. **Introduce Loyalty Programs for Month-to-Month Customers**
+   -  Customers with month-to-month contracts have the highest churn rate. This is especially troublesome as they make up more than half of Databel's customers.
+   - **Recommendation**: Offer loyalty programs or discounts for long-term contract upgrades. Provide incentives for these customers to switch to yearly plans, such as discounted rates or free add-ons for early commitments.
+
+### 2. **Target Older Customers with Custom Packages**
+   - Older customers (ages 70+) show higher churn rates. 
+   - **Recommendation**: Create more flexible, personalized service packages tailored to older demographics. Perhaps bundled phone and internet services with senior discounts or tailored packages that offer help with technical issues will help increase retention. 
+     
+### 3. **Competitor Analysis & Competitive Pricing**
+   - A significant percentage of churn is due to competitors offering better deals or pricing.
+   - **Recommendation**: Regularly review competitors' offers to remain competitive. Offer a price-match guarantee or exclusive promotions for customers who are considering leaving.
+
+### 4. **Target At-Risk Regions with Personalized Campaigns**
+   - The churn rate varies significantly by state, with some regions experiencing higher churn.
+   - **Recommendation**: Launch targeted retention campaigns in high-churn regions, offering special discounts or regional promotions to customers in those areas.
+   - 
+### 5. **Offer Custom Data Plans**
+   -The dashboard shows a correlation between data consumption and churn, with those using between 5–10 GB having higher churn.
+   - **Recommendation**: Provide more flexible or customized data plans that cater to medium users. 
+
+
+
 
 ## Technologies Used
 - **Power BI**: For interactive data visualization and dashboard creation.
