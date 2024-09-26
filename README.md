@@ -35,7 +35,7 @@ Databel, a telecom company, faces high customer churn, which affects its revenue
 - **Churn by Age**: Customers who are 70 or over on average show a much higher churn rate compared customers under 70.
 - **Churn Reasons**: The most common reason for churn is competitors offering better deals and products.
 - **Geographic Distribution**: California had the highest churn rate of any state by far at 63.24%!
-- **Data Plan and Grouped Consumption**: Among customers who used under 5 GB of data, the churn rate of those who have an unlimited data plan was 34.71%, whereas those without a data plan were much lower at 12.31%. In contrast, customers who used more than 5 GB, regardless of whether they had an unlimited plan or not, averaged higher than the total average churn rate.
+- **Data Plan and Grouped Consumption**: Among customers who used under 5 GB of data, the churn rate of those who have an unlimited data plan was 34.71%, whereas those without an unlimited plan were much lower at 12.31%. In contrast, customers who used more than 5 GB, regardless of whether they had an unlimited plan or not, averaged higher than the total average churn rate.
 
 ## Technologies Used
 - **Power BI**: For interactive data visualization and dashboard creation.
