@@ -3,7 +3,7 @@
 # Customer Churn Overview Dashboard
 
 ## Overview
-This project was part of a guided case study on DataCamp for a fictional telecom company called **Databel**. The goal of the analysis was to understand the factors contributing to customer churn and provide actionable insights for reducing it. The dashboard was built using **Power BI**.
+This project was done with data from a fictional telecom company called **Databel**. The goal of the analysis was to understand the factors contributing to customer churn and provide actionable insights for reducing it. The dashboard was built using **Power BI**.
 
 ### Key Metrics
 - **Total Churned Customers**: 1,796
